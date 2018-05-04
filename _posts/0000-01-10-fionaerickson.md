@@ -7,4 +7,4 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 Oh, you attended Codeland 2018?
-Tell me more about how much you know about Git now
+Tell me more about how much you know about Git now...
