@@ -25,6 +25,8 @@ Please take a moment to complete the class survey at: https://goo.gl/6jqoGo.
 - [git-scm](https://git-scm.com)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
+- ["Git from the Inside Out" by @maryrosecook](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+- ["Gardening with Git" by @gonzalo-bulnes](https://gonzalo-bulnes.github.io/blog/gardening_with_git/context-from-scratch.html)
 
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
